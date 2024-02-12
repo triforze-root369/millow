@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/triforze369/Documents/coding/solidity/dappunivproj/millow/contracts/Escrow.sol": {
-      "lastModificationDate": 1707716845766,
-      "contentHash": "d32fbdac0298a46becb14b9cf74a09fc",
+      "lastModificationDate": 1707771217217,
+      "contentHash": "2fbb8281da087e0d7d847ac8d0a87c9f",
       "sourceName": "contracts/Escrow.sol",
       "solcConfig": {
         "version": "0.8.17",
